@@ -1,0 +1,2 @@
+CONTAINER ID   IMAGE         COMMAND    CREATED          STATUS                      PORTS     NAMES
+5cc499ed2b01   hello-world   "/hello"   51 seconds ago   Exited (0) 50 seconds ago             heuristic_murdock
